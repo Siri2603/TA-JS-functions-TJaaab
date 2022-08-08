@@ -2,6 +2,11 @@
 1. Create a function named `sayHello` that alerts a message `Hello World!`.
 */
 
+function sayHello() {
+  let sayHello = ("Hello world")
+};
+alert{`Hello World`};
+
 /*
 2. Create a function named `fullName` with the following steps:
 
